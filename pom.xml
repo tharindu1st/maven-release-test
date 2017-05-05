@@ -4,12 +4,12 @@
 
     <groupId>org.test</groupId>
     <artifactId>org.test.sample</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <scm>
         <url>https://github.com/tharindu1st/maven-release-test.git</url>
         <developerConnection>scm:git:https://github.com/tharindu1st/maven-release-test.git</developerConnection>
         <connection>scm:git:https://github.com/tharindu1st/maven-release-test.git</connection>
-        <tag>org.test.sample-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
     <repository>
